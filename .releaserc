@@ -9,19 +9,5 @@
   "branches": [
     "main" 
   ],
-  "tagFormat": "${version}",
-  "plugins": [
-    [
-      "@semantic-release/release-notes-generator",
-      {
-        "preset": "conventionalcommits"
-      }
-    ],
-    [
-      "@semantic-release/github",
-      {
-        "successComment": false
-      }
-    ]
-  ]
+  "tagFormat": "${version}"
 }
