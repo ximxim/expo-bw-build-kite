@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-bw-build-kite",
+    "slug": "expo-bw-build-kite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
